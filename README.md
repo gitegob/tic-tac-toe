@@ -2,7 +2,8 @@
 
 ## Description
 
-This is an api that plays the game of Tic Tac Toe
+This is an api that plays the game of Tic Tac Toe.
+The app can be accessed at https://ticctactoeapi.herokuapp.com/
 
 ## Usage instructions
 
